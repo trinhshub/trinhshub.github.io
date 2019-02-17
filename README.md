@@ -1,2 +1,3 @@
-# trinhshub.github.io
-Hello! I'm Trinh and you can learn everything about me from my research work to travel tips on this Personal Website!
+# Hello, welcome to my personal webpage!
+I'm Trinh and I created this page to share my research work and other interesting finds.
+Please check back later for more updates!
