@@ -1,4 +1,4 @@
-[Personal Website](trinhhoang.org)
+A link to my [Personal Website](trinhhoang.org)
 
 ## Project 1. _Austin District Bridge Valuation Tool_
 Sponsor: TxDOT
