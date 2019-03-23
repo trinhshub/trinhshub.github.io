@@ -9,8 +9,8 @@ Sponsor: TxDOT
 
 [x] Methodology Framework
 
-[ ] Performance Indicators Sensitivity Analysis
+[  ] Performance Indicators Sensitivity Analysis
 
-[ ] Tool Interface
+[  ] Tool Interface
 
-[ ] Guide Book
+[  ] Guide Book
