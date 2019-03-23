@@ -13,4 +13,4 @@ Sponsor: TxDOT
 
 [ ] Tool Interface
 
-'[ ]' Guide Book
+[ ] Guide Book
