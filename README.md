@@ -39,7 +39,7 @@ Description: Using Python to simulate a network with drivers with access to real
 
 Case Study
 
-<img width="468" alt="image" src="https://user-images.githubusercontent.com/47671910/60152282-7fbcfa00-97a5-11e9-8436-003471ee4eb0.png"> ![Picture1](https://user-images.githubusercontent.com/47671910/60152480-4638be80-97a6-11e9-88b9-4e4f401b8dec.png)
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/47671910/60152282-7fbcfa00-97a5-11e9-8436-003471ee4eb0.png"> <img width="400" alt="image" src="https://user-images.githubusercontent.com/47671910/60152480-4638be80-97a6-11e9-88b9-4e4f401b8dec.png">
 
 Simulation Results:
 1. More people with real-time data access will increase flow efficiency (decrease average travel time in the whole system).
