@@ -30,4 +30,4 @@ Conference Project
 
 Visual presentations: Coming soon!
 
-![github-small](<img width="617" alt="image" src="https://user-images.githubusercontent.com/47671910/60152031-9d3d9400-97a4-11e9-83e6-53e90b228844.png">)
+<img width="617" alt="image" src="https://user-images.githubusercontent.com/47671910/60152031-9d3d9400-97a4-11e9-83e6-53e90b228844.png">
