@@ -29,3 +29,5 @@ Conference Project
 [ ] Report for Publication
 
 Visual presentations: Coming soon!
+
+<img src="images/emoticons/cool.png" alt="hi" class="inline"/>
