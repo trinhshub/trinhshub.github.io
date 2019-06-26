@@ -35,7 +35,7 @@ Class Project
 
 Description: Using Python to simulate a network with drivers with access to real-time data before their trips (at time t0), during their trips (at time t1), and with no access.
 
-<img width="617" alt="image" src="https://user-images.githubusercontent.com/47671910/60152031-9d3d9400-97a4-11e9-83e6-53e90b228844.png">
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/47671910/60152923-328e5780-97a8-11e9-8d53-c85c3e86f7e7.png">
 
 Case Study
 
