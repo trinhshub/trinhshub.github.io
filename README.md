@@ -1,4 +1,4 @@
-A link to my [Personal Website](trinhhoang.org)
+A link to my [Resume](https://drive.google.com/file/d/1PgZ75zMMy1LvqzEV_Lv_u5xOOhVbcqA7/view?usp=sharing)
 
 ## Project 1. _Austin District Bridge Valuation Tool_
 Sponsor: TxDOT
@@ -9,8 +9,8 @@ Sponsor: TxDOT
 
 [x] Methodology Framework
 
-[ ] Performance Indicators Sensitivity Analysis
+[x] Performance Indicators Sensitivity Analysis
 
-[ ] Tool Interface
+[x] Tool Interface
 
 [ ] Guide Book
