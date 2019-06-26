@@ -3,7 +3,9 @@ A link to my [Resume](https://drive.google.com/file/d/1PgZ75zMMy1LvqzEV_Lv_u5xOO
 ## Project 1. _Austin District Bridge Valuation Tool_
 Sponsor: TxDOT
 
-[Austin Bridge](https://static.squarespace.com/static/50305c7684ae7fae2e65756a/5220048ee4b053b3578fc38a/52200492e4b053b3578fe594/1275441500227/1000w/360%20Bridge%20HDR%20v2.jpg)
+Description: This project involves developing a methodology to capture both tangigle and intangble values of bridges under Austin District's management, then, base on this methododology, creating a user-friendly valuation tool for agencywide implementation.
+
+Progress:
 
 [x] Data Compilation
 
@@ -14,3 +16,14 @@ Sponsor: TxDOT
 [x] Tool Interface
 
 [ ] Guide Book
+
+## Project 2. _Assessing Impacts of Operating In-Vehicle Information System_
+Conference Project
+
+[x] Data Compilation
+
+[x] Methodology Framework
+
+[ ] Simulation Results
+
+[ ] Report for Publication
