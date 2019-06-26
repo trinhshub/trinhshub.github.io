@@ -27,3 +27,5 @@ Conference Project
 [ ] Simulation Results
 
 [ ] Report for Publication
+
+Visual presentations: Coming soon!
