@@ -1,4 +1,5 @@
-A link to my [Resume](https://drive.google.com/file/d/1PgZ75zMMy1LvqzEV_Lv_u5xOOhVbcqA7/view?usp=sharing)
+Link to my [Resume](https://drive.google.com/file/d/1PgZ75zMMy1LvqzEV_Lv_u5xOOhVbcqA7/view?usp=sharing)
+Link to my [Linkedin](https://www.linkedin.com/in/trinhhoang1/)
 
 ## Project 1. _Austin District Bridge Valuation Tool_
 Sponsor: TxDOT
@@ -56,6 +57,11 @@ _*Note: FHWA (Federal Highway Administration)_
 Highlights: Using ArcGIS to combine crashes with highway network from different open data sources of TxDOT.
 
 <img width="320" alt="image" src="https://user-images.githubusercontent.com/47671910/60153346-96fde680-97a9-11e9-9e3a-9eb52829f272.png"> <img width="320" alt="image" src="https://user-images.githubusercontent.com/47671910/60153523-1b506980-97aa-11e9-8e07-043e76382ec6.png">
+
+____________________________________________________________________________________________________________________________
+Contact Me
+Cellphone: (858) 649-9468
+Email Address: trinh.hoang121@gmail.com
 
 
 
