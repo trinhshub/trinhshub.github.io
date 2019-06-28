@@ -1,7 +1,4 @@
-<p align="center">
-  <img width="200" alt="image" src="https://user-images.githubusercontent.com/47671910/60372064-f4b84b80-99c0-11e9-8bab-9e0b2abfe6d0.jpg">
-
-Link to my [Resume](https://drive.google.com/file/d/1PgZ75zMMy1LvqzEV_Lv_u5xOOhVbcqA7/view?usp=sharing) and [Linkedin](https://www.linkedin.com/in/trinhhoang1/)
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/47671910/60372064-f4b84b80-99c0-11e9-8bab-9e0b2abfe6d0.jpg"> Link to my [Resume](https://drive.google.com/file/d/1PgZ75zMMy1LvqzEV_Lv_u5xOOhVbcqA7/view?usp=sharing) and [Linkedin](https://www.linkedin.com/in/trinhhoang1/)<p align="center">
 
 ## Project 1. _Austin District Bridge Valuation Tool_
 Sponsor: TxDOT
@@ -45,6 +42,7 @@ System Diagram
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/47671910/60152923-328e5780-97a8-11e9-8d53-c85c3e86f7e7.png">
 
 Case Study
+
 
 <img width="320" alt="image" src="https://user-images.githubusercontent.com/47671910/60152282-7fbcfa00-97a5-11e9-8436-003471ee4eb0.png"> <img width="320" alt="image" src="https://user-images.githubusercontent.com/47671910/60152480-4638be80-97a6-11e9-88b9-4e4f401b8dec.png">
 
