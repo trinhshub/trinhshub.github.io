@@ -3,7 +3,7 @@
 ## Project 1. _Austin District Bridge Valuation Tool_
 Sponsor: TxDOT
 
-Description: This project involves developing a methodology to capture both tangigle and intangble values of bridges under Austin District's management, then, base on this methododology, creating a user-friendly valuation tool for agencywide implementation.
+Description: This project involves developing a methodology to capture the value of bridges under Austin District's management, then, base on this methododology, creating a user-friendly valuation tool for agencywide implementation.
 
 Progress:
 
@@ -18,7 +18,6 @@ Progress:
 [ ] Guide Book
 
 ## Project 2. _Assessing Impacts of Operating In-Vehicle Information System_
-Conference Project
 
 [x] Data Compilation
 
