@@ -57,6 +57,8 @@ Highlights: Using ArcGIS to combine crashes with highway network from different 
 
 <img width="320" alt="image" src="https://user-images.githubusercontent.com/47671910/60153346-96fde680-97a9-11e9-9e3a-9eb52829f272.png"> <img width="320" alt="image" src="https://user-images.githubusercontent.com/47671910/60153523-1b506980-97aa-11e9-8e07-043e76382ec6.png">
 
+Contents Last Updated: June 2, 2019
+
 ____________________________________________________________________________________________________________________________
 
 Contact Me
