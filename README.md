@@ -1,40 +1,35 @@
-<img width="200" alt="image" src="https://user-images.githubusercontent.com/47671910/60372064-f4b84b80-99c0-11e9-8bab-9e0b2abfe6d0.jpg"> Link to my [Resume](https://drive.google.com/file/d/1PgZ75zMMy1LvqzEV_Lv_u5xOOhVbcqA7/view?usp=sharing) and [Linkedin](https://www.linkedin.com/in/trinhhoang1/)
+<img width="270" alt="image" src="https://user-images.githubusercontent.com/47671910/64563214-680d0080-d314-11e9-8100-8265c5961fd8.jpg">
 
-## Project 1. _Austin District Bridge Valuation Tool_
-Sponsor: TxDOT
+Link to my [Resume](https://drive.google.com/file/d/1PgZ75zMMy1LvqzEV_Lv_u5xOOhVbcqA7/view?usp=sharing)
+Link to my [Linkedin](https://www.linkedin.com/in/trinhhoang1/)
+Link to my [Activities Page]
 
-Description: This project involves developing a methodology to capture the value of bridges under Austin District's management, then, base on this methododology, creating a user-friendly valuation tool for agencywide implementation.
+Hello! I'm Trinh, a transportation engineering master's student at the University of Texas at Austin. I created this Github page mainly to share the work I conducted during my masters program. I am interested in various issues in the fields of [transportation asset management] and [network modeling]. Besides, you can also find pictures from my past extracurricular activities and work experiences. Have fun exploring!
 
-Progress:
+If you have any questions, please do not hesitate to send me an email. My contact can be found at the end of this page.
 
-[x] Data Compilation
+## Transportation Asset Management
+During my masters program, I worked on a part of the 10-Year Management Plan sponsored by the Texas Department of Transportation (TxDOT). I was tasked with developing an excel-based tool to compute bridge asset values on individual and network level. This project requires conducting research related to bridge asset valuation, management practice, and performance prediction. 
 
-[x] Methodology Framework
+Some features of the tool:
+  - Computing crash rates of bridges using regression and historical crash data from TxDOT's CRIS Database
+  - Computing bridge values using various traditional valuation models
+  - Computing bridge values using bridge utilities
+  - Comparing Investment Alternatives
+  - Predicting future performance
 
-[x] Performance Indicators Sensitivity Analysis
+Using ArcGIS to combine crashes with highway network from different open data sources of TxDOT.
 
-[x] Tool Interface
+<img width="320" alt="image" src="https://user-images.githubusercontent.com/47671910/60153346-96fde680-97a9-11e9-9e3a-9eb52829f272.png"> <img width="320" alt="image" src="https://user-images.githubusercontent.com/47671910/60153523-1b506980-97aa-11e9-8e07-043e76382ec6.png">
+  
+## Network Modeling
+There are a few different projects within this field that I conducted:
+1. Agent-based Modeling: Simulating Downtown Austin Network using Anylogic
 
-[ ] Guide Book
 
-## Project 2. _Assessing Impacts of Operating In-Vehicle Information System_
 
-[x] Data Compilation
-
-[x] Methodology Framework
-
-[ ] Simulation Results
-
-[ ] Report for Publication
-
-Highlight: An application on Austin Downtown Network with AnyLogic Simulation.
-
-Visual presentations: Coming soon!
-
-## Mini Project: _Measuring Effects of Operating Navigation Apps on the Network_
-Class Project
-
-Description: Using Python to simulate a network with drivers with access to real-time data before their trips (at time t0), during their trips (at time t1), and with no access.
+2. Python Programing: Measuring Effects of Operating Navigation Apps on the Network
+This project uses Python to simulate a network with drivers with access to real-time data before their trips (at time t0), during their trips (at time t1), and with no access.
 
 System Diagram
 
@@ -49,15 +44,7 @@ Simulation Results:
 1. More people with real-time data access will increase flow efficiency (decrease average travel time in the whole system).
 2. No difference between accessing the data before or during the trips.
 
-## Mini Project: _Predicting Crashes on Texas Highway Network Using Random Forest vs. Safety Prediction Functions by FHWA*_
-Class Project
-_*Note: FHWA (Federal Highway Administration)_
-
-Highlights: Using ArcGIS to combine crashes with highway network from different open data sources of TxDOT.
-
-<img width="320" alt="image" src="https://user-images.githubusercontent.com/47671910/60153346-96fde680-97a9-11e9-9e3a-9eb52829f272.png"> <img width="320" alt="image" src="https://user-images.githubusercontent.com/47671910/60153523-1b506980-97aa-11e9-8e07-043e76382ec6.png">
-
-Contents Last Updated: June 2, 2019
+Contents Last Updated: September 2, 2019
 
 ____________________________________________________________________________________________________________________________
 
