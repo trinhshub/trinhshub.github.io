@@ -59,8 +59,7 @@ The International Club at Grossmont College
 
 <img width="270" alt="image" src="https://user-images.githubusercontent.com/47671910/64620952-6db52580-d3aa-11e9-995a-bf4a8e8306ef.jpg">
 
-The 5k group at UT Austin (the event itself was cancelled on that date unfortunately).
-
+The 5k group at UT Austin.
 
 ***
 Contents Last Updated: September 9, 2019
