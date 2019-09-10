@@ -2,7 +2,6 @@
 
 Link to my [Resume](https://drive.google.com/file/d/1PgZ75zMMy1LvqzEV_Lv_u5xOOhVbcqA7/view?usp=sharing)
 Link to my [Linkedin](https://www.linkedin.com/in/trinhhoang1/)
-Link to my [Activities Page]
 
 Hello! I'm Trinh, a transportation engineering master's student at the University of Texas at Austin. I created this Github page mainly to share the work I conducted during my masters program. I am interested in various issues in the fields of [transportation asset management] and [network modeling]. Besides, you can also find pictures from my past extracurricular activities and work experiences. Have fun exploring!
 
@@ -44,7 +43,19 @@ Simulation Results:
 1. More people with real-time data access will increase flow efficiency (decrease average travel time in the whole system).
 2. No difference between accessing the data before or during the trips.
 
-Contents Last Updated: September 2, 2019
+## Work & Extracurricular Activities
+
+<img width="270" alt="image" src="https://user-images.githubusercontent.com/47671910/64620814-30509800-d3aa-11e9-8d25-c87d0fec71d1.JPG">
+Previous Internship at the City of San Diego
+
+<img width="270" alt="image" src="https://user-images.githubusercontent.com/47671910/64620944-6aba3500-d3aa-11e9-8b05-15cae13fb5ea.JPG">
+The International Club at Grossmont College
+
+<img width="270" alt="image" src="https://user-images.githubusercontent.com/47671910/64620952-6db52580-d3aa-11e9-995a-bf4a8e8306ef.jpg">
+The 5k group at UT Austin (the event itself was cancelled on that date unfortunately).
+
+
+## Contents Last Updated: September 9, 2019
 
 ____________________________________________________________________________________________________________________________
 
