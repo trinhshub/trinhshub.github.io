@@ -25,14 +25,14 @@ Using ArcGIS to combine crashes with highway network from different open data so
   
 ## Network Modeling
 There are several projects within this field that I conducted:
-1. Agent-based Modeling: Simulating Downtown Austin Network using Anylogic
+1  Agent-based Modeling: Simulating Downtown Austin Network using Anylogic
 This project is still in progress, but the goal is to estimate the effect of disruptions to the transportation network caused by failures of real-time navigation and the GPS.
 
 Network Scope
 
 <img width="325" alt="image" src="https://user-images.githubusercontent.com/47671910/64622074-5b3beb80-d3ac-11e9-83d6-7245d04bbd37.png">
 
-2. Python Programing: Measuring the Effects of Operating Navigation Apps on the Network
+2  Python Programing: Measuring the Effects of Operating Navigation Apps on the Network
 This project uses Python to simulate a network with drivers with access to real-time data before their trips (at time t0), during their trips (at time t1), and with no access.
 
 System Diagram
