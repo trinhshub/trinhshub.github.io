@@ -1,5 +1,3 @@
-###<img width="220" alt="image" src="https://user-images.githubusercontent.com/47671910/64563214-680d0080-d314-11e9-8100-8265c5961fd8.jpg">###
-
 Check out my [Resume](https://drive.google.com/file/d/1PgZ75zMMy1LvqzEV_Lv_u5xOOhVbcqA7/view?usp=sharing)
 
 Check out my [Linkedin Profile](https://www.linkedin.com/in/trinhhoang1/)
