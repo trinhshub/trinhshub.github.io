@@ -2,7 +2,7 @@ Hello! I'm Trinh, a transportation engineering master's student at the Universit
 
 If you have any questions, please do not hesitate to send me an email. My contact can be found at the end of this page.
 
-## Contents
+**Contents**
 
 [TxDOT Project](https://trinhshub.github.io/Bridge-Management/): Bridge Asset Management
 
