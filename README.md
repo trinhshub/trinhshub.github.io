@@ -23,7 +23,7 @@ Cellphone: (858) 649-9468
 
 Email Address: trinh.hoang121@gmail.com
 
-Check out my [Resume](https://drive.google.com/file/d/1PgZ75zMMy1LvqzEV_Lv_u5xOOhVbcqA7/view?usp=sharing)
+Check out my [Resume - Trinh Hoang.docx](https://github.com/trinhshub/Navigation-Systems-Disruptions/files/3821247/Resume.-.Trinh.Hoang.docx)
 
 Check out my [Linkedin Profile](https://www.linkedin.com/in/trinhhoang1/)
 
