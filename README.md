@@ -10,37 +10,12 @@ If you have any questions, please do not hesitate to send me an email. My contac
 
 [TxDOT Project: Bridge Asset Management](https://trinhshub.github.io/Bridge-Management/)
 
-[Thesis Project: Disruptions in the Navigation System]((https://trinhshub.github.io/Navigation-Systems-Disruptions/)
+[Thesis Project: Disruptions in the Navigation System](https://trinhshub.github.io/Navigation-Systems-Disruptions/)
 
-[Conference Paper]
+[My First TRB Paper (Accepted for 2020 Annual Meeting Lectern): Integrating Economic and Utility Concepts for a Comprehensive Bridge Valuation Model](https://trinhshub.github.io/EUC-Abstract/)
 
 [Activities](https://trinhshub.github.io/Activities/)
-
   
-## Network Modeling
-There are several projects within this field that I conducted:
-1  Agent-based Modeling: Simulating Downtown Austin Network using Anylogic
-This project is still in progress, but the goal is to estimate the effect of disruptions to the transportation network caused by failures of real-time navigation and the GPS.
-
-Network Scope
-
-<img width="325" alt="image" src="https://user-images.githubusercontent.com/47671910/64622074-5b3beb80-d3ac-11e9-83d6-7245d04bbd37.png">
-
-2  Python Programing: Measuring the Effects of Operating Navigation Apps on the Network
-This project uses Python to simulate a network with drivers with access to real-time data before their trips (at time t0), during their trips (at time t1), and with no access.
-
-System Diagram
-
-<img width="700" alt="image" src="https://user-images.githubusercontent.com/47671910/60152923-328e5780-97a8-11e9-8d53-c85c3e86f7e7.png">
-
-Case Study
-
-<img width="320" alt="image" src="https://user-images.githubusercontent.com/47671910/60152282-7fbcfa00-97a5-11e9-8436-003471ee4eb0.png"> <img width="320" alt="image" src="https://user-images.githubusercontent.com/47671910/60152480-4638be80-97a6-11e9-88b9-4e4f401b8dec.png">
-
-Results from running the simulations:
-1. More people with real-time data access will increase flow efficiency (decrease average travel time in the whole system).
-2. No difference between accessing the data before or during the trips.
-
 ***
 Contents Last Updated: September 9, 2019
 
