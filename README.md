@@ -28,6 +28,11 @@ Download a copy of my [Resume](https://github.com/trinhshub/Navigation-Systems-D
 Check out my [Linkedin Profile](https://www.linkedin.com/in/trinhhoang1/)
 
 
+diff
+- text in red
++ text in green
+! text in orange
+# text in gray
 
 
 
