@@ -27,9 +27,6 @@ Download a copy of my [Resume](https://github.com/trinhshub/Navigation-Systems-D
 
 Check out my [Linkedin Profile](https://www.linkedin.com/in/trinhhoang1/)
 
-<div class="text-purple">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
-</div>
 
 
 
