@@ -1,4 +1,6 @@
-Hello! I'm Trinh, a transportation engineering master's student at the University of Texas at Austin. I created this Github page mainly to share the work I conducted during my masters program. I am interested in various issues in the fields of transportation asset management and network modeling. Besides, you can also find pictures from my past extracurricular activities and work experiences. Have fun exploring!
+![repository-open-graph-template](https://user-images.githubusercontent.com/47671910/68843114-322a2680-068d-11ea-8402-3212e955ee29.jpg)
+
+Hello! My name is Trinh, and I'm a current transportation engineering master's student at the University of Texas at Austin. I created this Github page mainly to share the work I conducted during my masters program. I am interested in various issues in the fields of transportation asset management and network modeling. Besides, you can also find pictures from my past extracurricular activities and work experiences. Have fun exploring!
 
 If you have any questions, please do not hesitate to send me an email. My contact can be found at the end of this page.
 
