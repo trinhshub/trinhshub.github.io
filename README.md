@@ -15,7 +15,7 @@ If you have any questions, please do not hesitate to send me an email. My contac
 [Activities](https://trinhshub.github.io/Activities/): Professional and Not
   
 ***
-Contents Last Updated: November 7, 2019
+Contents Last Updated: November 14, 2019
 
 ____________________________________________________________________________________________________________________________
 
