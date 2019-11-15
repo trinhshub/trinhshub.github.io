@@ -13,13 +13,14 @@ If you have any questions, please do not hesitate to send me an email. My contac
 [My First TRB Paper](https://trinhshub.github.io/EUC-Abstract/): Integrating Economic and Utility Concepts for a Comprehensive Bridge Valuation Model (Accepted for presentation in a Lectern Session at TRB 2020 Annual Meeting).
 
 [Activities](https://trinhshub.github.io/Activities/): Professional and Not
+
+[Artworks](https://trinhshub.github.io/Artworks/): Pencil Drawings and Paintings by Me
   
-***
 Contents Last Updated: November 14, 2019
 
 ____________________________________________________________________________________________________________________________
 
-Contact Me
+**Contact Me**
 
 Cellphone: (858) 649-9468
 
