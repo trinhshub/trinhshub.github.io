@@ -10,7 +10,7 @@ If you have any questions, please do not hesitate to send me an email. My contac
 
 [Thesis Project](https://trinhshub.github.io/Navigation-Systems-Disruptions/): Disruptions in the Navigation System
 
-[My First TRB Paper](https://trinhshub.github.io/EUC-Abstract/): Integrating Economic and Utility Concepts for a Comprehensive Bridge Valuation Model (Accepted for presentation in a Lectern Session at TRB 2020 Annual Meeting).
+[TRB Conference Paper](https://trinhshub.github.io/EUC-Abstract/): Integrating Economic and Utility Concepts for a Comprehensive Bridge Valuation Model (Accepted for presentation in a Lectern Session at TRB 2020 Annual Meeting).
 
 [Activities](https://trinhshub.github.io/Activities/): Professional and Not
 
