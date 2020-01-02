@@ -11,6 +11,8 @@ If you have any questions, please do not hesitate to send me an email. My contac
 <p align="center">
   A diagram of traffic engineering activities
 
+<p align="left">
+  
 ## What is Asset Management?
 
 ## Projects
