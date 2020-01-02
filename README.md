@@ -2,7 +2,7 @@
 
 Hello! My name is Trinh, and I'm a current transportation engineering master's student at the University of Texas at Austin. I created this Github page to share transportation knowledge and the projects I conducted during my masters program. I am interested in various issues in traffic engineering and asset management. Besides, you can also find pictures from my past extracurricular activities and work experiences. Have fun exploring!
 
-If you have any questions, please do not hesitate to send me an email. My contact can be found at the end of this page.
+If you have any questions, please shoot to send me an email. My contact can be found at the end of this page.
 
 ## What is Traffic Engineering?
 **Traffic engineering** is a branch of civil engineering that uses engineering techniques to achieve the safe and efficient movement of people and goods on roadways.
@@ -14,6 +14,7 @@ If you have any questions, please do not hesitate to send me an email. My contac
   A diagram of traffic engineering activities.
 </p>
 
+[Techniques for Traffic Assignment](https://github.com/trinhshub/trinhshub.github.io/files/4015244/Organization.Chart.of.Transportation.Network.Analysis.pdf)
 
 ## What is Asset Management?
 
