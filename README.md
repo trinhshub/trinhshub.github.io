@@ -14,19 +14,19 @@ If you have any questions, please shoot to send me an email. My contact can be f
   A diagram of traffic engineering activities.
 </p>
 
-[Techniques for Static Traffic Assignment](https://github.com/trinhshub/trinhshub.github.io/files/4017511/Organization.Chart.of.Transportation.Network.Analysis.pdf)
+[**Techniques for Static Traffic Assignment**](https://github.com/trinhshub/trinhshub.github.io/files/4017511/Organization.Chart.of.Transportation.Network.Analysis.pdf)
 
 ## Projects
 
-[TxDOT 10-year Management Plan](https://trinhshub.github.io/Bridge-Management/): Bridge Valuation Tool Using Excel VBA
+[**TxDOT 10-year Management Plan**](https://trinhshub.github.io/Bridge-Management/): Bridge Valuation Tool Using Excel VBA
 
-[Disruptive Technology Impact Assessment](https://trinhshub.github.io/Navigation-Systems-Disruptions/): The Impacts of Disruptions in the Communication System on the Traffic Network
+[**Disruptive Technology Impact Assessment**](https://trinhshub.github.io/Navigation-Systems-Disruptions/): The Impacts of Disruptions in the Communication System on the Traffic Network
 
-[Transportation Research Board (TRB) 99th Conference Presentation](https://trinhshub.github.io/Papers/): Integrating Economic and Utility Concepts for a Comprehensive Bridge Valuation Model.
+[**Transportation Research Board (TRB) 99th Conference Presentation**](https://trinhshub.github.io/Papers/): Integrating Economic and Utility Concepts for a Comprehensive Bridge Valuation Model.
 
-[Activities](https://trinhshub.github.io/Activities/)
+[**Activities**](https://trinhshub.github.io/Activities/)
 
-[Artworks](https://trinhshub.github.io/Artworks/)
+[**Artworks**](https://trinhshub.github.io/Artworks/)
   
 Contents Last Updated: January 2, 2020.
 
