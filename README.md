@@ -1,16 +1,22 @@
 ![repository-open-graph-template (1)](https://user-images.githubusercontent.com/47671910/69939218-e8bb4300-14a4-11ea-9c1e-c148af298a06.jpg)
 
-Hello! My name is Trinh, and I'm a current transportation engineering master's student at the University of Texas at Austin. I created this Github page mainly to share the work I conducted during my masters program. I am interested in various issues in the fields of transportation asset management and network modeling. Besides, you can also find pictures from my past extracurricular activities and work experiences. Have fun exploring!
+Hello! My name is Trinh, and I'm a current transportation engineering master's student at the University of Texas at Austin. I created this Github page to share transportation knowledge and the projects I conducted during my masters program. I am interested in various issues in traffic engineering and asset management. Besides, you can also find pictures from my past extracurricular activities and work experiences. Have fun exploring!
 
 If you have any questions, please do not hesitate to send me an email. My contact can be found at the end of this page.
 
-**Contents**
+**What is Traffic Engineering?**
 
-[TxDOT Project](https://trinhshub.github.io/Bridge-Management/): Bridge Asset Management
+![Basic Mind Map](https://user-images.githubusercontent.com/47671910/71653026-d4f73c80-2cef-11ea-9723-7985afb6afec.png)
 
-[Thesis Project](https://trinhshub.github.io/Navigation-Systems-Disruptions/): Disruptions in the Navigation System
+**What is Asset Management?**
 
-[TRB Conference Paper](https://trinhshub.github.io/Papers/): Integrating Economic and Utility Concepts for a Comprehensive Bridge Valuation Model (Accepted for presentation in a Lectern Session at TRB 2020 Annual Meeting).
+**Projects**
+
+[TxDOT 10-year Management Plan](https://trinhshub.github.io/Bridge-Management/): Bridge Valuation Tool Using Excel VBA
+
+[Disruptive Technology Impact Assessment](https://trinhshub.github.io/Navigation-Systems-Disruptions/): The Impacts of Disruptions in the Communication System on the Traffic Network
+
+[TRB Paper: Bridge Valuation](https://trinhshub.github.io/Papers/): Integrating Economic and Utility Concepts for a Comprehensive Bridge Valuation Model. Under review. (Accepted for presentation in a Lectern Session at TRB 2020 Annual Meeting)
 
 [Activities](https://trinhshub.github.io/Activities/): Professional and Not
 
