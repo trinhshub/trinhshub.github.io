@@ -23,11 +23,11 @@ If you have any questions, please do not hesitate to send me an email. My contac
 
 [Disruptive Technology Impact Assessment](https://trinhshub.github.io/Navigation-Systems-Disruptions/): The Impacts of Disruptions in the Communication System on the Traffic Network
 
-[TRB Paper: Bridge Valuation](https://trinhshub.github.io/Papers/): Integrating Economic and Utility Concepts for a Comprehensive Bridge Valuation Model. Under review. (Accepted for presentation in a Lectern Session at TRB 2020 Annual Meeting)
+[Transportation Research Board (TRB) 99th Conference Presentation](https://trinhshub.github.io/Papers/): Integrating Economic and Utility Concepts for a Comprehensive Bridge Valuation Model.
 
-[Activities](https://trinhshub.github.io/Activities/): Professional and Not
+[Activities](https://trinhshub.github.io/Activities/)
 
-[Artworks](https://trinhshub.github.io/Artworks/): Pencil Drawings and Paintings by Me
+[Artworks](https://trinhshub.github.io/Artworks/)
   
 Contents Last Updated: November 14, 2019
 
