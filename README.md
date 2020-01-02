@@ -7,14 +7,14 @@ If you have any questions, please shoot to send me an email. My contact can be f
 ## What is Traffic Engineering?
 **Traffic engineering** is a branch of civil engineering that uses engineering techniques to achieve the safe and efficient movement of people and goods on roadways.
 <p align="center">
-  <img width="600" src="https://user-images.githubusercontent.com/47671910/71653181-ae85d100-2cf0-11ea-9e52-e5a197a3ea86.png">
+  <img width="600" src="https://user-images.githubusercontent.com/47671910/71696087-a9209900-2d79-11ea-9f10-94166cceb84d.png">
 </p>
 
 <p align="center">
   A diagram of traffic engineering activities.
 </p>
 
-[Techniques for Traffic Assignment](https://trinhshub.github.io/Organization.Chart.of.Transportation.Network.Analysis.pdf)
+[Techniques for Static Traffic Assignment](https://github.com/trinhshub/trinhshub.github.io/files/4017511/Organization.Chart.of.Transportation.Network.Analysis.pdf)
 
 ## Projects
 
