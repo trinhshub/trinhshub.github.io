@@ -16,7 +16,7 @@ If you have any questions, please shoot to send me an email. My contact can be f
 
 [Techniques for Traffic Assignment](https://github.com/trinhshub/trinhshub.github.io/files/4015244/Organization.Chart.of.Transportation.Network.Analysis.pdf)
 
-<a href="trinhshub.github.io/Organization Chart of Transportation Network Analysis.pdf" target="_blank">Techniques for Traffic Assignment.</a>
+<a href="trinhshub.github.io/folder/Organization.Chart.of.Transportation.Network.Analysis.pdf" target="_blank">PDF.</a>
 
 ## What is Asset Management?
 
