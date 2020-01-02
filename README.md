@@ -4,13 +4,13 @@ Hello! My name is Trinh, and I'm a current transportation engineering master's s
 
 If you have any questions, please do not hesitate to send me an email. My contact can be found at the end of this page.
 
-##What is Traffic Engineering?##
+## What is Traffic Engineering?
 
 ![Basic Mind Map](https://user-images.githubusercontent.com/47671910/71653181-ae85d100-2cf0-11ea-9e52-e5a197a3ea86.png)
 
-##What is Asset Management?##
+## What is Asset Management?
 
-##Projects##
+## Projects
 
 [TxDOT 10-year Management Plan](https://trinhshub.github.io/Bridge-Management/): Bridge Valuation Tool Using Excel VBA
 
@@ -26,7 +26,7 @@ Contents Last Updated: November 14, 2019
 
 ____________________________________________________________________________________________________________________________
 
-##Contact Me##
+## Contact Me
 
 Cellphone: (858) 649-9468
 
