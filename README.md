@@ -9,9 +9,11 @@ If you have any questions, please do not hesitate to send me an email. My contac
 <p align="center">
   <img width="600" src="https://user-images.githubusercontent.com/47671910/71653181-ae85d100-2cf0-11ea-9e52-e5a197a3ea86.png">
 </p>
+
 <p align="center">
   A diagram of traffic engineering activities.
 </p>
+
 
 ## What is Asset Management?
 
