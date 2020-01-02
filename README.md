@@ -1,6 +1,6 @@
 ![No Background](https://user-images.githubusercontent.com/47671910/71654471-9feee800-2cf7-11ea-85bf-87162604d2c4.png)
 
-Hello! My name is Trinh, and I'm a current transportation engineering master's student at the University of Texas at Austin. I created this Github page to share transportation knowledge and the projects I conducted during my masters program. I am interested in various issues in traffic engineering and asset management. Besides, you can also find pictures from my past extracurricular activities and work experiences. Have fun exploring!
+Hello! My name is Trinh, and I'm a current transportation engineering master's student at the University of Texas at Austin. I created this Github page to share transportation knowledge and the projects I conducted during my masters program. I am interested in various issues in traffic engineering and bridge management. Besides, you can also find pictures from my past extracurricular activities and work experiences. Have fun exploring!
 
 If you have any questions, please shoot to send me an email. My contact can be found at the end of this page.
 
@@ -16,8 +16,6 @@ If you have any questions, please shoot to send me an email. My contact can be f
 
 [Techniques for Traffic Assignment](https://trinhshub.github.io/Organization.Chart.of.Transportation.Network.Analysis.pdf)
 
-## What is Asset Management?
-
 ## Projects
 
 [TxDOT 10-year Management Plan](https://trinhshub.github.io/Bridge-Management/): Bridge Valuation Tool Using Excel VBA
@@ -30,7 +28,7 @@ If you have any questions, please shoot to send me an email. My contact can be f
 
 [Artworks](https://trinhshub.github.io/Artworks/)
   
-Contents Last Updated: November 14, 2019
+Contents Last Updated: January 2, 2020.
 
 ____________________________________________________________________________________________________________________________
 
