@@ -38,7 +38,7 @@ Growing up without a strong academic background, I don't have good study habits 
 
 [**Artworks**](https://trinhshub.github.io/Artworks/)
   
-Contents Last Updated: January 2, 2020.
+Contents Last Updated: August 6, 2021.
 
 ____________________________________________________________________________________________________________________________
 
