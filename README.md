@@ -1,6 +1,6 @@
 ![No Background](https://user-images.githubusercontent.com/47671910/73321257-87df8b00-4207-11ea-9f74-72b200267ed9.png)
 
-Hello! My name is Trinh, and I'm a current transportation engineering master's student at the University of Texas at Austin. I created this Github page to share transportation knowledge and the projects I conducted during my masters program. I am interested in various issues in traffic engineering and bridge management. Besides, you can also find pictures from my past extracurricular activities and work experiences. Have fun exploring!
+Hello! My name is Trinh, and I'm a current traffic engineer-in-training at Jacobs. During my master's program at the University of Texas at Austin, I created this Github page to share transportation knowledge and the projects I conducted. I graduated in June 2020 and got to work on some exciting projects in the industry as well, so I'm turning this page into a catalog of my projects. I am interested in various issues in traffic engineering and bridge management. Besides work, you can also find pictures from my past extracurricular activities and work experiences. Have fun exploring!
 
 If you have any questions, please shoot me an email. My contact can be found at the end of this page.
 
