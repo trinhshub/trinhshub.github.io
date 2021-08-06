@@ -25,11 +25,22 @@ If you have any questions, please shoot me an email. My contact can be found at 
 
 [**Transportation Research Board (TRB) 99th Conference Presentation**](https://trinhshub.github.io/Papers/): Integrating Economic and Utility Concepts for a Comprehensive Bridge Valuation Model.
 
+## From Incompetent to Expert
+Growing up without a strong academic background, I don't have good study habits which led to my struggles with improving my productivity. I've seen many people like me, who are told that they are smart, yet don't get much work done. At some point, I started to wonder if it is my ability-to-know-what-needs-to-be-done (which some could perceive as smartness) that actually hinders my ability to get work done. I often come up with lots of ideas and layout plans, then feel overwhelmed with the plans. So I wrote down this system of productivity to remind myself that I can only get as much work done as my perserverance allows me to. The goal of this system is to stay on the diagonal line and slowly enhance both axes simultaneously to move up to the Expert point.
+
+<p align="center">
+  <img width="600" src="https://user-images.githubusercontent.com/47671910/128548273-7ce2b27f-0250-49dd-b052-fd5c8338c742.jpeg">
+</p>
+
+<p align="center">
+  The Productivity System.
+</p>
+
 [**Activities**](https://trinhshub.github.io/Activities/)
 
 [**Artworks**](https://trinhshub.github.io/Artworks/)
   
-Contents Last Updated: January 2, 2020.
+Contents Last Updated: August 6, 2021.
 
 ____________________________________________________________________________________________________________________________
 
