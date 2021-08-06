@@ -15,6 +15,8 @@ If you have any questions, please shoot me an email. My contact can be found at 
 
 [**Techniques for Static Traffic Assignment**](https://github.com/trinhshub/trinhshub.github.io/files/4017511/Organization.Chart.of.Transportation.Network.Analysis.pdf)
 
+**Fun Fact:** August 5th is International Traffic Light Day. On this day in 1914, the first electrical traffic signal was installed on the corner of Euclid Ave & East 105th St in Cleverland, Ohio.
+
 ## Projects
 
 [**TxDOT 10-year Management Plan**](https://trinhshub.github.io/Bridge-Management/): Bridge Valuation Tool Using Excel VBA
