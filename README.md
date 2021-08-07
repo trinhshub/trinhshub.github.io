@@ -37,6 +37,8 @@ Growing up without a strong academic background, I didn't have good study habits
   The Productivity System.
 </p>
 
+Looking at this chart, my friend had an interesting comment about his progress: "I think I am on the line and having a good balance, but to get to this point, my progress did not move in a straight line but waggled around the optimal productivity line like a sine graph." My own take from this chart is that it is important to realize where you are on the chart, because at times, reducing the scope of what you're trying to do or working less can help you to get work done more efficiently, therefore optimize productivity.
+
 [**Activities**](https://trinhshub.github.io/Activities/)
 
 [**Artworks**](https://trinhshub.github.io/Artworks/)
