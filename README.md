@@ -1,9 +1,4 @@
-![image](https://user-images.githubusercontent.com/47671910/128555404-e7c6f2b6-ac1d-411a-b5b6-24e06b8da328.png)
-
-
-Hello! My name is Trinh, and I'm a current traffic engineer-in-training at Jacobs. During my master's program at the University of Texas at Austin, I created this Github page to share transportation knowledge and the projects I conducted. I graduated in June 2020 and got to work on some exciting projects in the industry as well, so I'm turning this page into a catalog of my projects. I am interested in various issues in traffic engineering and bridge management. Besides work, you can also find pictures from my past extracurricular activities and work experiences. Have fun exploring!
-
-If you have any questions, please shoot me an email. My contact can be found at the end of this page.
+![image](https://user-images.githubusercontent.com/47671910/137417540-f3e5cc0e-4611-462c-a471-3f5d7cbf002d.png)
 
 ## What is Traffic Engineering?
 **Traffic engineering** is a branch of civil engineering that uses engineering techniques to achieve the safe and efficient movement of people and goods on roadways.
@@ -26,8 +21,8 @@ If you have any questions, please shoot me an email. My contact can be found at 
 
 [**Transportation Research Board (TRB) 99th Conference Presentation**](https://trinhshub.github.io/Papers/): Integrating Economic and Utility Concepts for a Comprehensive Bridge Valuation Model.
 
-## From Incompetent to Expert
-Growing up without a strong academic background, I didn't have good study habits which led to my struggles with improving my productivity. I've seen many people with the same issues. At some point, I started to wonder if it is the ability-to-know-what-needs-to-be-done (which some could perceive as smartness) actually hinders productivity rather than helping it. I often come up with lots of ideas and layout plans, then feel overwhelmed with the plans. So I wrote down this system of productivity to remind myself that I can only get as much work done as my perserverance allows me to. Both Smartness and Perseverance can become constraints when maximizing productivity. The goal of this system is to stay on the diagonal line and slowly enhance both axes simultaneously to move up to the highly productive point.
+## Work
+Growing up I did not have good study habits, which led to my struggles with improving productivity. I spent a lot of time questioning the relationship between working smart vs. working hard. In one of those times, I created the chart below which I called a system of productivity. The main idea of this chart is that you can only get as much work done as your Cognitive Ability and Perseverance allow you to, which means that both of them can become constraints when maximizing your productivity.
 
 <p align="center">
   <img width="800" src="https://user-images.githubusercontent.com/47671910/128549141-17367fd9-5970-4220-a6b6-b9fd9805223c.png">
@@ -37,7 +32,9 @@ Growing up without a strong academic background, I didn't have good study habits
   The Productivity System.
 </p>
 
-Looking at this chart, my friend had an interesting comment about his progress: "I think I am on the line and having a good balance, but to get to this point, my progress did not move in a straight line but waggled around the optimal productivity line like a sine graph." My own take from this chart is that it is important to realize where you are on the chart, because at times, reducing the scope of what you're trying to do or working less can help you to get work done more efficiently, therefore optimize productivity.
+I have been on both sides of that line. With society constantly pushing you to hustle, I often feel that I am not working hard enough, which put me on the yellow side. While constantly thinking you are not working hard enough comes with a lot of guilt, I recently noticed that falling into the pink zone is even more dangerous. Hardworking is often seen as a positive trait, but I've learned that the pink zone is when you start creating mistakes and wasting effort without even knowing that (The von Manstein Matrix does carry some truths in it). It also leads to much burnout and self-doubt.
+
+It is very important to realize which side you are on so that you can adjust your behaviors. Sometimes, reducing the scope of what you're trying to do or working less can help you to get work done more efficiently, therefore optimize productivity. Other times, try taking breaks to improve your cognitive ability by reading books, educating yourself, meditate, and exercise. The goal is to stay on the diagonal line and slowly enhance both axes simultaneously to move up to the highly productive point.
 
 [**Activities**](https://trinhshub.github.io/Activities/)
 
