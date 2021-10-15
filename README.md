@@ -1,5 +1,4 @@
-![image](https://user-images.githubusercontent.com/47671910/137417540-f3e5cc0e-4611-462c-a471-3f5d7cbf002d.png)
-
+![image](https://user-images.githubusercontent.com/47671910/137421521-a6dc621f-b011-42b5-bc9e-e820fa0cab98.png)
 ## What is Traffic Engineering?
 **Traffic engineering** is a branch of civil engineering that uses engineering techniques to achieve the safe and efficient movement of people and goods on roadways.
 <p align="center">
@@ -21,7 +20,7 @@
 
 [**Transportation Research Board (TRB) 99th Conference Presentation**](https://trinhshub.github.io/Papers/): Integrating Economic and Utility Concepts for a Comprehensive Bridge Valuation Model.
 
-## Work
+## Productivity
 Growing up I did not have good study habits, which led to my struggles with improving productivity. I spent a lot of time questioning the relationship between working smart vs. working hard. In one of those times, I created the chart below which I called a system of productivity. The main idea of this chart is that you can only get as much work done as your Cognitive Ability and Perseverance allow you to, which means that both of them can become constraints when maximizing your productivity.
 
 <p align="center">
